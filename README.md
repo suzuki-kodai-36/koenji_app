@@ -61,3 +61,6 @@ README〜ER図作成：5/13 〆切
 - React
 - Tailwind CSS
 - daisyUI
+
+■画面遷移図
+https://www.figma.com/file/hLMdCqvHwsF3PRn6pSZTEs/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&t=Z5FObEpGzAZUNS8q-1
